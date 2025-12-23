@@ -2,3 +2,7 @@ baseURL = 'https://skisocks.dev/'
 languageCode = 'en-GB'
 title = 'Ski smarter, not harder.'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
