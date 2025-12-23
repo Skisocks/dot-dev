@@ -20,7 +20,7 @@ jobs:
     env:
       DART_SASS_VERSION: 1.97.1
       GO_VERSION: 1.25.5
-      HUGO_VERSION: 0.153.1
+      HUGO_VERSION: v0.153.2+extended
       NODE_VERSION: 24.12.0
       TZ: Europe/London
     steps:
